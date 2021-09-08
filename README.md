@@ -4,15 +4,13 @@
  <div>
   <a href="https://github.com/wallyboy22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallyboy22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallyboy22&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyboy22&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyboy22&layout=compact&langs_count=7&theme=fracula"/>
 </div>
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Wally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wally-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> --> -->
 </div>
 
  <div> 
