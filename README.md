@@ -1,4 +1,4 @@
-### I'm Wallace Silva, geography and programming student 🌏
+### I'm Wallace Silva, geography and programming student 🌏🛰
 
 
  <div>
